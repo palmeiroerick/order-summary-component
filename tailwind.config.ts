@@ -23,6 +23,10 @@ const config: Config = {
       bold: "700",
       black: "900",
     },
+    backgroundImage: {
+      mobile: "url('/assets/bg-mobile.svg')",
+      desktop: "url('/assets/bg-desktop.svg')",
+    },
   },
   plugins: [],
 };

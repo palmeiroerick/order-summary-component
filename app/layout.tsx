@@ -18,7 +18,7 @@ const RootLayout = ({ children }: { children: ReactNode }) => {
   return (
     <html lang="en">
       <body
-        className={`${redHatDisplay.className} flex h-screen w-screen items-center justify-center bg-VeryPaleBlue`}
+        className={`${redHatDisplay.className} bg-mobile flex h-screen w-screen items-center justify-center bg-PaleBlue bg-top bg-no-repeat`}
       >
         {children}
       </body>
