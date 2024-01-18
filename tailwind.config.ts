@@ -13,6 +13,7 @@ const config: Config = {
       BrightBlue: "#3829e0",
 
       /* Neutral */
+      White: "#ffffff",
       VeryPaleBlue: "#f5f7ff",
       DesaturatedBlue: "#7280a7",
       DarkBlue: "#1f2f56",
