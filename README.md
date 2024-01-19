@@ -17,10 +17,12 @@ Users should be able to:
 
 ## Screenshot
 
+![Screen Shot 2024-01-19 at 00 33 29](https://github.com/palmeiroerick/order-summary-component/assets/148393698/e031ce85-8ddc-4377-ae80-b5bf6bcd4b9d)
+
 ## Links
 
-- [Solution]()
-- [Live Site]()
+- [Solution](https://github.com/palmeiroerick/order-summary-component)
+- [Live Site](https://order-summary-component-phi-lemon.vercel.app/)
 
 ## Built with
 
